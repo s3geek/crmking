@@ -1,4 +1,4 @@
 crmking
 =======
 
-CRMKing is a Customer Relationship Management System built on the Zend Framework and integrated with Asterisk
+CRMKing is a Magento Module ( Magento is a Zend Framework Project ) for Customer Relationship Management and is integrated with Asterisk. The focus of CRMKing is Security, Swiftness, and Scalability (S3)
